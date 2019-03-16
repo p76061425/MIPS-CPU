@@ -1,6 +1,6 @@
 # <center> MIPS CPU </center>
 
-## Instruction format:
+## Instruction format
 ![](https://i.imgur.com/NzvTLWU.png)
 
 ## TestBench module
