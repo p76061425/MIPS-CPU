@@ -41,5 +41,5 @@ Perform the operation according to ALU_CTRL from ALU_ctrl module.
 ### Add module
 A normal Adder.
 
-### Reference graph </br>
+## Reference graph </br>
 ![](https://i.imgur.com/MP5fkQ0.png)
